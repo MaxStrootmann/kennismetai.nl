@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "KMA Techniek & IT",
+    pageTitle: "KennisMetAi.nl",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "nl-NL",
     baseUrl: "kennismetai.nl",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "JetBrains Mono",
+        header: "Inter",
         body: "Inter",
         code: "JetBrains Mono",
       },

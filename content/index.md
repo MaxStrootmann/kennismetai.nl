@@ -1,10 +1,10 @@
 ---
 title: Home
 ---
-# [[KennisMetAi.nl]]
+# [[KMA Techniek & IT]]
 Verander uw bedrijfsserver in een modern kennisbeheersysteem met private AI ondersteuning.
 
-Bescherm de toekomst van uw bedrijf tegen vergrijzing en personeelstekorten. [KMA Techniek & IT](Over mij) helpt, samen met uw werknemers, de expertise van de meest ervaren technici vast te leggen zodat de nieuwe generatie hier op kan bouwen.
+Bescherm de toekomst van uw bedrijf tegen vergrijzing en personeelstekorten. [[KMA Techniek & IT]] helpt, samen met uw werknemers, de expertise van de meest ervaren technici vast te leggen zodat de nieuwe generatie hier op kan bouwen.
 
 KMA Techniek & IT,  helpt technische bedrijven beter om te gaan met de krapte op de arbeidsmarkt. Dit doen we door ervaren technici te helpen met het schrijven van documentatie. Deze nieuwe documenten schrijven we in [[Markdown format]] zodat we er super snel, offline en veilig mee kunnen werken.
 
