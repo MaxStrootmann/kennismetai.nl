@@ -1,4 +1,5 @@
 export interface ColorScheme {
+  brand: string
   light: string
   lightgray: string
   gray: string
@@ -41,6 +42,7 @@ export function joinStyles(theme: Theme, ...stylesheet: string[]) {
 ${stylesheet.join("\n\n")}
 
 :root {
+  --brand: ${theme.colors.darkMode.brand};
   --light: ${theme.colors.lightMode.light};
   --lightgray: ${theme.colors.lightMode.lightgray};
   --gray: ${theme.colors.lightMode.gray};
