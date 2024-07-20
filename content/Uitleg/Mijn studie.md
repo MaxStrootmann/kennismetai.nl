@@ -1,9 +1,9 @@
 ---
-title: Mijn studie
+title: Van monteur naar programmeur
 ---
 De meeste mensen denken nog steeds dat als je jezelf wilt omscholen, dat je dan naar school moet en daar dan een boel geld voor moet hebben. Dit dacht ik 2 jaar geleden ook.
 
-Toen ik op ging zoeken hoe je een website maakt, kwam ik al vrij snel allerlei gratis cursussen tegen over grafisch ontwerp. Toen ik werktuigbouw studeerde, zat er naast ons lokaal een klas die grafisch ontwerp deed. Dus in mijn hoofd, als ik grafisch ontwerp zou willen leren, moest ik weer 4 jaar naar het MBO voordat ik daarna pas weer aan het werk kon. Blijkbaar was dit dus niet helemaal waar, en kon ik gewoon in me vrije tijd, in mijn eigen tempo leren. En kon ik ook nog eens zelf bepalen wie mijn leraar is!
+Toen ik googelde: "hoe maak je een website", kwam ik al vrij snel allerlei gratis cursussen tegen over grafisch ontwerpen. Toen ik werktuigbouw studeerde, zat er naast ons lokaal een klas die grafisch ontwerp deed. Dus in mijn hoofd, als ik grafisch ontwerp zou willen leren, moest ik weer 4 jaar naar het MBO voordat ik daarna pas weer aan het werk kon. Blijkbaar was dit dus niet helemaal waar, en kon ik gewoon in me vrije tijd, in mijn eigen tempo leren. En kon ik ook nog eens zelf de docent uitkiezen!
 
 Tegenwoordig is het dus mogelijk om bijna alles, gratis en online in je eigen tijd te leren. Dit wordt vooral mogelijk gemaakt door grote scholen en organisaties, die erin geloven dat educatie voor iedereen beschikbaar moet zijn. Doordat deze organisaties dit doen, is het enige wat je nog nodig hebt om een vak te leren, een computer met internet en tijd om te studeren.
 

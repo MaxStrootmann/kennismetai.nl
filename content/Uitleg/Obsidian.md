@@ -1,9 +1,9 @@
 ---
-title: Obsidian.md
+title: Obsidian
 ---
 https://obsidian.md/
 
-Veiligheid, stabiliteit, onafhankelijkheid en flexibiliteit staan bij KMA op de eerste plaats. Uw bedrijfsdocumenten en die van uw klanten en leveranciers, moeten veilig op uw eigen server beheerd kunnen worden.
+Uw bedrijfsdocumenten en die van uw klanten en leveranciers, moeten veilig op uw eigen server beheerd kunnen worden. Veiligheid, stabiliteit, onafhankelijkheid en flexibiliteit staan bij KMA op de eerste plaats.
 
 Obsidian vormt de basis van ons kennisbeheersysteem, en is door zijn gedeeltelijk open-source filosofie perfect om op te bouwen. Obsidian is een notitie app, die zichzelf onderscheid door geen gebruik te maken van de cloud en door programmeurs te mogelijkheid te bieden om plugins te maken.  Plugins zijn een manier om extra functionaliteit toe te voegen aan Obsidian en zorgen ervoor dat je het programma helemaal naar eigen wens kunt maken.
 

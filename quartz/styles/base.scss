@@ -57,9 +57,12 @@ strong {
   font-weight: $semiBoldWeight;
 }
 
-/* .page-title > a { */
-/*   color: var(--brand); */
-/* } */
+.page-title > a {
+  @media all and (max-width: $mobileBreakpoint) {
+  font-size: 20px;
+  }
+}
+  
 
 a {
   font-weight: $semiBoldWeight;
@@ -187,7 +190,8 @@ a {
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
-          flex: 1;
+          flex-direction: column;
+          flex: 1 0 auto;
           min-width: 140px;
         }
       }
