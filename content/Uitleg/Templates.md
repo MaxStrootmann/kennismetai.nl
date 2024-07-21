@@ -1,7 +1,7 @@
 ---
 title: Templates
 ---
-Het gebruiken van een template, of sjabloon in het Nederlands, is een manier om structuur en eenheid te creëren in je documentatie. Een template bevat alvast de basis van je document, laat zien wat het moet gaan bevatten, en waar alles moet komen te staan.
+Het gebruiken van een template, of sjabloon in het Nederlands, is een manier om **structuur en eenheid** te creëren in je documentatie. Een template bevat alvast de basis van je document, laat zien wat het moet gaan bevatten, en waar alles moet komen te staan.
 
 Dit is een voorbeeld van een template voor een handleiding:
 ## Template voor handleidingen
@@ -34,3 +34,11 @@ Stappenplan voor het opbouwen van het onderdeel + per stap eventuele tips en pun
 ## Voorbeeld foto's
 Link naar mappen op de computer met de voorbeeld foto's.
 - *Map op computer*
+
+## [Contact opnemen](Contact)
+
+**Zie ook:**
+- [[Werkwijze]]
+- [[Obsidian]]
+- [[Markdown format]]
+- [[AI software]]

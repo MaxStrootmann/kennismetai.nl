@@ -15,6 +15,11 @@ Het zelf bijhouden, aanvullen en verbeteren van de handleidingen is een versterk
 ## Hoe zorgen we dat het schrijven niet te veel tijd kost?
 Monteurs zijn schaars, en om nou te verwachten dat zij hun werk aan de kant leggen om uitgebreid een handleiding te schrijven, is niet echt realistisch. We moeten dus samen een werkwijze bedenken die ervoor zorgt dat de expertise van monteurs toch opgeschreven wordt, zonder dat dit teveel tijd en moeite kost.
 
-Elk bedrijf is anders, en elke monteur is anders, dus deze werkwijze uitvinden is vooral een leerproces. [[Wat ik met KMA kan bieden]], is ondersteuning bij dit proces, en daarmee een goede basis waarop het personeel zelf verder kan bouwen.
+Elk bedrijf is anders, en elke monteur is anders, dus deze werkwijze uitvinden is vooral een leerproces. [Wat ik met KMA kan bieden](Werkwijze), is ondersteuning bij dit proces, en daarmee een goede basis waarop het personeel zelf verder kan bouwen.
 
-Het doel van deze basis is om een duidelijk voorbeeld te bieden, en gelijk een aantal handige [[templates]] te maken in Obsidian. Met goed ontworpen templates leg je de focus op de relevante informatie, en hoef je je geen zorgen te maken over de lay-out en indeling van je documenten. Hierdoor wordt het schrijven van documentatie een stuk minder werk.
+Het doel van deze basis is om een duidelijk voorbeeld te bieden, en gelijk een aantal handige [[Templates]] te maken in Obsidian. Met goed ontworpen templates leg je de focus op de relevante informatie, en hoef je je geen zorgen te maken over de lay-out en indeling van je documenten. Hierdoor wordt het schrijven van documentatie een stuk minder werk.
+
+**Zie ook:**
+- [[Werkwijze]]
+- [[Over mij]]
+- [[AI software]]
