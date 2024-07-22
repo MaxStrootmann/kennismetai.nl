@@ -3,6 +3,9 @@
 @use "./callouts.scss";
 
 html {
+  @media all and (max-width: $mobileBreakpoint) {
+  font-size: 16px;
+  }
   scroll-behavior: smooth;
   text-size-adjust: none;
   overflow-x: hidden;
@@ -58,6 +61,7 @@ strong {
 }
 
 .page-title > a {
+  text-decoration: none;
   @media all and (max-width: $mobileBreakpoint) {
   font-size: 20px;
   }
@@ -66,7 +70,7 @@ strong {
 
 a {
   font-weight: $semiBoldWeight;
-  text-decoration: none;
+  /* text-decoration: none; */
   transition: color 0.2s ease;
   color: var(--secondary);
 
@@ -74,9 +78,13 @@ a {
     color: var(--tertiary) !important;
   }
 
-  &.internal {
+  .explorer & {
     text-decoration: none;
-    background-color: var(--highlight);
+  }
+
+  &.internal {
+    /* text-decoration: none; */
+    /* background-color: var(--highlight); */
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
@@ -122,6 +130,10 @@ a {
     margin: 0 auto;
     padding: 0 1rem;
     max-width: $pageWidth;
+  }
+
+  @media all and (max-width: $mobileBreakpoint) {
+    padding: 0 0.5rem;
   }
 
   & article {

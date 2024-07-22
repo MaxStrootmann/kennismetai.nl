@@ -52,7 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
         }
       },
     })),
-    Component.Graph({ localGraph: { scale: 1.5, opacityScale: 1.5, }, globalGraph: {}, }),
+    Component.Graph({ localGraph: { repelForce: 1.2, scale: 1.5, opacityScale: 1.5, }, globalGraph: {}, }),
     // Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
